@@ -1,4 +1,4 @@
-# 🧑‍💻 Customer Segmentation & Clustering
+#  Customer Segmentation & Clustering
 
 ## Project Overview
 
@@ -10,7 +10,7 @@ The analysis uses customer demographic and spending data to explore behavioral p
 
 ---
 
-## 🎯 Business Questions
+##  Business Questions
 
 - What patterns can be identified in customer demographics and spending behavior?
 - How are customers distributed across age, income, and spending score?
@@ -20,7 +20,7 @@ The analysis uses customer demographic and spending data to explore behavioral p
 
 ---
 
-## 📊 Analysis & Key Findings
+##  Analysis & Key Findings
 
 ### Customer Overview
 
@@ -107,7 +107,7 @@ The **elbow method** was used to examine cluster inertia across different number
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Python
 
@@ -140,7 +140,7 @@ The **elbow method** was used to examine cluster inertia across different number
 
 ---
 
-## 📓 Jupyter Notebook
+##  Jupyter Notebook
 
 **[View Customer Segmentation Analysis](Customer_Segmentation_Project.ipynb)**
 
@@ -148,7 +148,7 @@ The notebook contains the complete analysis, including data exploration, visuali
 
 ---
 
-## 💡 Project Takeaway
+##  Project Takeaway
 
 This project demonstrates my ability to use **Python for exploratory data analysis and unsupervised machine learning** to identify patterns in customer behavior.
 
@@ -158,7 +158,7 @@ I progressed from exploring individual customer characteristics to developing in
 
 ---
 
-## 📂 Project Files
+##  Project Files
 
 - **[Customer Segmentation Analysis](Customer_Segmentation_Project.ipynb)** — Complete Python/Jupyter Notebook analysis.
 - **[Visualizations](Customer_Segmentation_Project.ipynb)** — Visual analysis and clustering results are included in the notebook.
