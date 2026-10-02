@@ -91,7 +91,7 @@ The features were standardized using `StandardScaler` before applying the cluste
 
 ---
 
-## 🤖 Machine Learning Approach
+##  Machine Learning Approach
 
 ### K-Means Clustering
 
